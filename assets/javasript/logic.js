@@ -6,9 +6,9 @@ var config = {
     projectId: "train-scheduler-ae1f6",
     storageBucket: "train-scheduler-ae1f6.appspot.com",
     messagingSenderId: "68577947608",
-    appId: "1:68577947608:web:7cad6ebd6303c55df50cad",
-    measurementId: "G-795VN4CJZE"
-}
+    appId: "1:68577947608:web:4cc65926e8bf9b9ff50cad",
+    measurementId: "G-Y97PDJNMZQ"
+};
 
 $(document).ready(function () {
     // config var for the firebase and api key
